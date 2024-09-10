@@ -1,6 +1,6 @@
 #define Servo1 3 //This is to control the first motor
 #define Servo2 5 //This is to contorl the second motor
-char command; 
+char command;
 String string;
 int onTime1=500; //onTime is the amount of time that the motors are on High and low from
 int onTime2=500;
